@@ -1,5 +1,4 @@
 flask
-rdkit-pypi
 pandas
 openpyxl
 requests
